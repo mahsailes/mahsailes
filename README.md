@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi there, I'm Mahsa Ileslamlou! 
 
-<!--
-**mahsailes/mahsailes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a 3rd year student at UCLA pursuing a B.S. in Mathematics of Computation! I'm currently particpating in the Break Through Tech AI program at the UCLA site in which I was selected as one of **250/3000+** applicants to particpate! 
 
-Here are some ideas to get you started:
+## Projects
+📺 I’m currently working on a Next-Gen TV Show Recommendation project for DirecTV! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Tools: 
+- Programming Languages: 🖥️ C++, 🐍 Python
+- Frameworks & Libraries: NumPy, Pandas, Scikit-Learn
+
+## Certifications
+📜 **Machine Learning Certification** from Cornell University (Online/Remote)
+
+## Contact
+You can reach me at: 
+- 📫 mahsaileslamlou@gmail.com
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mahsailes)
+
