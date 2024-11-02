@@ -1,14 +1,15 @@
 ## 👋 Hi there, I'm Mahsa Ileslamlou! 
+🎓 Junior at UCLA, studying Mathematics of Computation
 
-I'm currently a 3rd year student at UCLA pursuing a B.S. in Mathematics of Computation! I'm currently particpating in the Break Through Tech AI program at the UCLA site in which I was selected as one of **250/3000+** applicants to particpate! 
+I'm currently particpating in the [BreakThroughTech](https://www.breakthroughtech.org/) at the UCLA site in which I was selected as one of **250/3000+** applicants to particpate in a 12-month long program including Machine Learning coursework!
 
-## Projects
+## 🎯 Projects
 📺 I’m currently working on a Next-Gen TV Show Recommendation project for DirecTV! 
 
 
 ## 🛠️ Tools: 
-- Programming Languages: 🖥️ C++, 🐍 Python
-- Frameworks & Libraries: NumPy, Pandas, Scikit-Learn
+- **Programming Languages**: 🖥️ C++, 🐍 Python
+- **Data Science**: NumPy, Pandas, Scikit-Learn
 
 ## Certifications
 📜 **Machine Learning Certification** from Cornell University (Online/Remote)
