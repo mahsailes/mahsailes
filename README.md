@@ -3,7 +3,7 @@
 
 I'm currently particpating in the [BreakThroughTech](https://www.breakthroughtech.org/) program at the UCLA site in which I was selected as one of **250/3000+** applicants to particpate in a 12-month long program including Machine Learning coursework!
 
-I am very interested in exploring the intersection of human behavior and technology, particularly within the entertainment industry. I want to focus on enhancing the human experience by analyzing data to understand what qualities make something appealing. I aim to work on projects where I can analyze and identify patterns to help develop more personalized technologies for everyone!
+I am very interested in exploring the intersection of human behavior and technology, particularly within the entertainment industry. I want to focus on enhancing the human experience by analyzing data to understand what qualities of media make it more appealing to a user. I aim to work on projects where I can analyze and identify patterns to help develop more personalized technologies for everyone!
 
 ## 🎯 Projects
 **[DirecTV]: [Next-Gen TV Show Recommendation](https://github.com/DirecTV-Team1A-NextGen-Rec/directv_tvrec.git) (Break Through Tech AI Program)**
@@ -15,7 +15,16 @@ I am very interested in exploring the intersection of human behavior and technol
   - **Random Forest**: RMSE: 0.1639, MAE: 0.1042, R²: 0.6452 (slight overfitting)  
   - **Gradient Boosting**: RMSE: 0.1699, MAE: 0.1111, R²: 0.6620 (high performance, computationally intensive)  
   - **XGBoost**: RMSE: 0.1483, MAE: 0.0800, R²: 0.7067 (best performance, less interpretable)  
-  - **CatBoost**: RMSE: 0.1549, MAE: 0.0240, R²: 0.7185 (excellent for categorical features, harder to interpret)  
+  - **CatBoost**: RMSE: 0.1549, MAE: 0.0240, R²: 0.7185 (excellent for categorical features, harder to interpret)
+
+**[Young Tech Professionals Bootcamp]: [CommUniSpace](https://www.figma.com/proto/pG4sM1m5aRIpFd3RjZq2X1/CommUniSpace-Prototype?node-id=2977-8305&starting-point-node-id=2977%3A8305&t=CKSSLnpnMAyuA6rv-1) (Innovate@UCLA's ENG170)**
+- Check out my team's app prototype on Figma where we collaborated for **10-weeks** in a Design Thinking bootcamp at UCLA!
+- **What We Did**: We designed a community-focused app on Figma for LGBTQ+ individuals (18-24 years old) that aimed to match users with personalized safe space recommendations by incorporating personalized quizzes, AI-driven insights,  secure data storage, and prioritizing privacy and safety concerns.
+- **Tools:** Figma (UI/UX prototyping)
+- **Achievements**:
+  - Delivered a prototype tailored to the unique needs of LGBTQ+ youth, emphasizing safety, privacy, and inclusivity.
+  - Developed features to match users with verified safe spaces and foster meaningful connections.
+  - Pitched app to a panel of judges, receiving positive feedback for addressing critical community needs, highlighting the app’s potential impact.  
 
 
 ## 🛠️ Tools: 
@@ -31,6 +40,8 @@ I am very interested in exploring the intersection of human behavior and technol
 - **Development Tools:**
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 
 ## Certifications
